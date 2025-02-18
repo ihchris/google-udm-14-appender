@@ -1,6 +1,6 @@
 # UDM 14 Enhancer for Google
 
-![Extension Icon](icon128.png)
+![Extension Icon](icons/icon128.webp)
 
 **UDM 14 Enhancer** is a lightweight Microsoft Edge extension that automatically appends `&udm=14` to Google search URLs, optimizing your search results for better accuracy and relevance.
 
