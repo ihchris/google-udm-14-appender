@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Google UDM 14 Appender",
+    "name": "Just Show Me The Search Results",
     "version": "1.0",
     "description": "Appends &udm=14 to Google search URLs",
     "icons": {
